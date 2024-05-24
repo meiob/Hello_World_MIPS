@@ -21,8 +21,9 @@ This code will print string "Hello World!"
 
 ![Mars.jar Demo](/MIPS-helloworld-demo-01.gif)
 
-### 🍧 Video Tutorial
+### 🍧 Resource
 [Starting Up MARS - MIPS Tutorial](https://youtu.be/jzfzvmnFbdw?si=vHFe2Zo2m114RFz0)  on YouTube by SPORBZ
+[A Minimalistic Introduction to MIPS Instruction](http://labs.cs.upt.ro/labs/so2/html/resources/nachos-doc/mipsf.html) on "Departamentul Calculatoare - specializarea software"
 
 ### メールには必ず返信します！
 meicha3 [at] protonmail.ch

@@ -1,5 +1,6 @@
 # "Hello World in MIPS assembly
-# From https://youtu.be/jzfzvmnFbdw
+# From: https://youtu.be/jzfzvmnFbdw
+#       http://labs.cs.upt.ro/labs/so2/html/resources/nachos-doc/mipsf.html
 
         #All program code is placed after the .text assembler directive
         .text
